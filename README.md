@@ -1,2 +1,2 @@
-# publicoprojects
+# publicprojects
 repositorios para projetos publicos
